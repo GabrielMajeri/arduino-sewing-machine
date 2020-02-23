@@ -1,6 +1,6 @@
 # Arduino Sewing Machine
 
-![Spinning cam shaft mechanism](https://i.imgur.com/zjJP7Mb.gifv)
+![Spinning cam shaft mechanism](https://i.imgur.com/zjJP7Mb.gif)
 
 Developed as a final project for the Introduction to Robotics course
 by [Unibuc Robotics](https://www.facebook.com/unibuc.robotics/).
