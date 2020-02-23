@@ -1,7 +1,14 @@
 # Arduino Sewing Machine
 
+![Spinning cam shaft mechanism](https://i.imgur.com/zjJP7Mb.gifv)
+
 Developed as a final project for the Introduction to Robotics course
 by [Unibuc Robotics](https://www.facebook.com/unibuc.robotics/).
+
+## Code
+
+The Arduino [code](code/code.ino) for the project is very simple since the sewing machine
+currently doesn't have any additional features besides the core mechanism.
 
 ## Authors
 
