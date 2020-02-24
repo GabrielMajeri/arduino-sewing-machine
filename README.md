@@ -9,6 +9,8 @@ The objectives were to understand how the mechanism behind a real sewing machine
 works, to recreate it using 3D printing and easily available components, and eventually
 to add smart features to the sewing machine.
 
+### Video
+
 [![Click here to watch a presentation video](https://img.youtube.com/vi/7RS8E37PXbs/0.jpg)](https://www.youtube.com/watch?v=7RS8E37PXbs)
 
 ### Table of contents
